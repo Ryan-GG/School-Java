@@ -1,0 +1,10 @@
+format fancy
+format plain
+name 4 Grade
+set 0 5 3.45
+set 0 6 66
+set 5 5 54
+blah
+sumcol 5
+sumrow 6
+quit
